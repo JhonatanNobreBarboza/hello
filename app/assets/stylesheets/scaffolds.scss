@@ -50,6 +50,9 @@
 	-moz-box-shadow: inset 0px 1px 4px #ECECEC;
 	-webkit-box-shadow: inset 0px 1px 4px #ECECEC;
 }
+.basic-grey input[type="text"].phone-fields{
+    width: 55%;
+}
 .basic-grey textarea{
 	padding: 5px 3px 3px 5px;
 }
@@ -80,4 +83,8 @@
 }
 .basic-grey .button:hover {
     background: #CF7A7A
+}
+a{
+    color: #888888;
+    text-decoration: none;
 }
